@@ -1,4 +1,4 @@
-# 🗣️ Bark Voice Generator (Custom TTS UI)
+# 🗣️ Chekaru Voice Generator (Custom TTS UI)
 
 **Developer:** Mayj Amilano  
 **Description:**  
