@@ -1,0 +1,7 @@
+Requirements:
+
+bark
+numpy
+scipy
+torch
+tkinter
